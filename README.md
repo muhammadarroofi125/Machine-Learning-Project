@@ -3,13 +3,13 @@
 Repository ini berisi kumpulan latihan praktikum mata kuliah Machine Learning, Modul 1 sampai Modul 15, serta project akhir.
 
 **Identitas Mahasiswa**
-Nama           : Muhammad Ar Roofi
-NPM            : 202343500311
-Kelas          : X7C
-Program Studi  : Teknik Informatika
-Mata Kuliah    : Machine Learning
-Dosen Pengampu : Nurfidah Dwitiyanti M.Si.
-Universitas    : Universitas Indraprasta PGRI
+- Nama           : Muhammad Ar Roofi
+- NPM            : 202343500311
+- Kelas          : X7C
+- Program Studi  : Teknik Informatika
+- Mata Kuliah    : Machine Learning
+- Dosen Pengampu : Nurfidah Dwitiyanti M.Si.
+- Universitas    : Universitas Indraprasta PGRI
 
 **Daftar Modul**
 
@@ -55,5 +55,5 @@ Cara Menggunakan
 3. Baca penjelasan, jalankan kode, dan periksa hasilnya.
 4. Siapkan dataset yang diperlukan sesuai petunjuk pada notebook.
 
-Catatan
+Catatan :
 Setiap folder modul berisi latihan sesuai materi praktikum. Library dan dataset yang diperlukan dapat berbeda sesuai latihan yang dikerjakan.
